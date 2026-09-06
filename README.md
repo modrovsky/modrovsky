@@ -1,4 +1,4 @@
-  ✌️  Making things onchain and offchain
+  Making things onchain and offchain ✌️
 
   **Projects**
 
